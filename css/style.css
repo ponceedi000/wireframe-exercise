@@ -1,9 +1,9 @@
 * {
     box-sizing: border-box;
 }
-/* body {
-    font-size: ;
-} */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 header {
     width: 100%;
     background-color: rgb(111, 111, 111);
